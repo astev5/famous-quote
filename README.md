@@ -4,14 +4,14 @@ A program that accepts a paragraph of text that can be manipulated and then outp
 ## Constraints
 - User should input a paragraph of tet such as a famous quote.
 - The program repeats the paragraph before displaying the following menu options:
-<ol>
-  <li>Convert to all uppercase letters</li>
-  2:  Convert to all lowercase letters
-  3:  Display the length of the paragraph
-  4:  Select a subtring of the paragraph
-  5:  Let _Random_ select a substring of the paragraph
-  6:  Exit
-</ol>
+  <ol>
+    <li>Convert to all uppercase letters</li>
+    <li>Convert to all lowercase letters</li>
+    <li>Display the length of the paragraph</li>
+    <li>Select a subtring of the paragraph</li>
+    <li>Let _Random_ select a substring of the paragraph</li>
+    <li>Exit</li>
+  </ol>
 
 ## Requirements
 - Printed results should use formatted output.
